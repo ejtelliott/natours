@@ -1,0 +1,23 @@
+{
+  "name": "naours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejtelliott/natours.git"
+  },
+  "author": "Eric Elliott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejtelliott/natours/issues"
+  },
+  "homepage": "https://github.com/ejtelliott/natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  },
+  "dependencies": {}
+}
